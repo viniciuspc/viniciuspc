@@ -3,7 +3,6 @@
 - 🌱 I’m currently polishing my skills with JavaScript
 - 📫 You can reach me by email: pasqualini9@gmail.com
 - And take a look at my linkedin: https://www.linkedin.com/in/viniciuspc/en
-- Or at my CV https://github.com/viniciuspc/viniciuspc/blob/main/vinicius_pasqualini_carvalho.pdf
 
 <!---
 viniciuspc/viniciuspc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
