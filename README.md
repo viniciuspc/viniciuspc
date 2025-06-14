@@ -17,6 +17,7 @@ I am always eager to learn new technologies and take on challenging projects. My
 ## 📫 Let’s Connect!
 - Email: pasqualini9@gmail.com
 - LinkedIn: https://linkedin.com/in/viniciuspc
+- Website: https://viniciuspc.com/
 
 
 <!---
